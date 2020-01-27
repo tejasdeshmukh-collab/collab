@@ -1,0 +1,5 @@
+Added a colaborator and cloned in the main account repo. 
+
+Testing if the main user is able to perform git push. 
+
+Thanks!
