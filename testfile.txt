@@ -1,0 +1,6 @@
+This file was created to test if the correct repo is cloned or not. 
+Feel free to delete this during clean up. 
+
+Thanks!
+Happy learning! 
+
